@@ -1,0 +1,42 @@
+﻿Study Shape Generator:1 started: 3/31/2024, 1:42:10 AM
+Number of configurations: 1
+Default mesh: 26362 elements, 46857 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/31/2024, 1:44:46 AM
+Total time 0:02:36
+
+Study Shape Generator:1 started: 3/31/2024, 1:45:17 AM
+Number of configurations: 1
+Default mesh: 26362 elements, 46857 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/31/2024, 1:47:35 AM
+Total time 0:02:18
+
+Study Shape Generator:1 started: 3/31/2024, 1:53:03 AM
+Number of configurations: 1
+Default mesh: 26362 elements, 46857 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/31/2024, 1:55:11 AM
+Total time 0:02:08
+
+Study Shape Generator:1 started: 3/31/2024, 1:57:10 AM
+Number of configurations: 1
+Default mesh: 4166 elements, 7621 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.97  on element 2548 finished: 3/31/2024, 1:58:18 AM
+Total time 0:01:08
+
+Study Shape Generator:1 started: 3/31/2024, 1:58:45 AM
+Number of configurations: 1
+Default mesh: 26362 elements, 46857 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.57  on element 15216 finished: 3/31/2024, 2:00:25 AM
+Total time 0:01:40
+
+Study Shape Generator:1 started: 3/31/2024, 2:04:38 AM
+Number of configurations: 1
+Default mesh: 26362 elements, 46857 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/31/2024, 2:06:03 AM
+Total time 0:01:25
+
